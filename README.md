@@ -8,4 +8,4 @@
 - 📫 Reach me easily by adding me as a friend on discord : shinyhunter08
 -  😄 Pronouns: HE/HIM
 -  I'm from India. I'm not a pro coder but i do pokemon rom hacking for fun.
-- ⚡ Fun fact: I don't know C but still i do these things :D
+- ⚡ Fun fact: Both binary and decomps constitute gen 3 rom hacking and both are handy, so have interest in both.
