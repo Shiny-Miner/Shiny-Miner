@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/followers/Shiny-Miner?style=flat&logo=Appveyor&logoColor=Violet&logoSize=Auto&labelColor=Abcdef)
 [![Lord of Shines profile views](https://u8views.com/api/v1/github/profiles/101048219/views/day-week-month-total-count.svg)](https://u8views.com/github/Shiny-Miner)
 - Creating codes you like 😋
-- 👯 I’m currently learning python, C. python and assembly.
+- 👯 I’m currently learning python, C, SQL, python and assembly.
 - 📫 Reach me easily by adding me as a friend on discord : shinyhunter08
 -  😄 Pronouns: HE/HIM
 -  I'm from India. I'm not a pro coder but i do pokemon rom hacking for fun.
