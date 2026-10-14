@@ -1,6 +1,5 @@
 ## Alola spectator! I'm Shiny Miner 👋
 ![](https://komarev.com/ghpvc/?username=shiny-miner&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=Shiny-Miner)
 ![](https://img.shields.io/github/followers/Shiny-Miner?style=flat&logo=Appveyor&logoColor=Violet&logoSize=Auto&labelColor=Abcdef)
 - 🌀 Trying a hand on C , assembly and python programming
 - ⚡⚡ All time active Pokémon Rom Hacker. 
